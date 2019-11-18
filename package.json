@@ -1,0 +1,16 @@
+{
+  "name": "ts-issue-35172",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "type-mapping": "^1.29.0",
+    "typescript": "^3.5.1"
+  }
+}
